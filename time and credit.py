@@ -14,8 +14,3 @@ def time_2(credit):
     else:
         time = 'not right time'
     return time  
-
-# importing the required module
-import matplotlib.pyplot as plt
-  
-plt.show()

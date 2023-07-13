@@ -1,14 +1,3 @@
-a = {'name': 'RiRi', 'location': 'Van','age': 27 }
-
-sen = '{} is a {} year old slut who wants to give me a bj at {}'
-
-
-print(a['name'] + ' is a ' + str(a['age']) + ' year old slut who wants to give me a bj at ' + a['location'] + '.') 
-
-# print(number for number in range(0,1000))
-
-
-
 def time_3(credit):
     time = 9
     if credit < 13.5 and credit > 4.0:
